@@ -38,3 +38,4 @@ Setup a basic react app with TypeScript and Webpack 5
 - yarn add -D @babel/runtime @babel/plugin-transform-runtime
 - check the .babelrc to add plugins (check github)
   
+ref: https://www.youtube.com/watch?v=Elpu7CIuqjY
